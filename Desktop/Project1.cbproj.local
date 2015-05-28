@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2015/03/31 14:50:30.000.225,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2015/03/31 14:50:30.000.211,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/05 20:08:41.000.216,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>2015/05/05 20:08:41.000.194,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/05 20:20:45.000.608,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit2.cpp</Transaction>
+    <Transaction>2015/05/05 20:28:15.000.159,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit3.cpp</Transaction>
+    <Transaction>2015/05/05 20:48:30.000.339,=C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit4.cpp</Transaction>
+    <Transaction>2015/05/05 21:27:03.000.590,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit4.h=D:\bissa\Unit4.h</Transaction>
+    <Transaction>2015/05/05 21:27:03.000.590,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit4.dfm=D:\bissa\Unit4.dfm</Transaction>
+    <Transaction>2015/05/05 21:27:03.000.590,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit4.cpp=D:\bissa\Unit4.cpp</Transaction>
+    <Transaction>2015/05/05 21:27:04.000.700,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit1.h=D:\bissa\Unit1.h</Transaction>
+    <Transaction>2015/05/05 21:27:04.000.700,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit1.dfm=D:\bissa\Unit1.dfm</Transaction>
+    <Transaction>2015/05/05 21:27:04.000.700,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit1.cpp=D:\bissa\Unit1.cpp</Transaction>
+    <Transaction>2015/05/05 21:27:05.000.602,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit2.cpp=D:\bissa\Unit2.cpp</Transaction>
+    <Transaction>2015/05/05 21:27:05.000.602,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit2.h=D:\bissa\Unit2.h</Transaction>
+    <Transaction>2015/05/05 21:27:05.000.602,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit2.dfm=D:\bissa\Unit2.dfm</Transaction>
+    <Transaction>2015/05/05 21:27:06.000.864,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit3.cpp=D:\bissa\Unit3.cpp</Transaction>
+    <Transaction>2015/05/05 21:27:06.000.864,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit3.dfm=D:\bissa\Unit3.dfm</Transaction>
+    <Transaction>2015/05/05 21:27:06.000.864,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Unit3.h=D:\bissa\Unit3.h</Transaction>
+    <Transaction>2015/05/05 21:27:07.000.739,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Project1PCH1.h=D:\bissa\Project1PCH1.h</Transaction>
+    <Transaction>2015/05/05 21:27:08.000.904,C:\Users\Sopie\Documents\Embarcadero\Studio\Projects\Project1.cbproj=D:\bissa\Project1.cbproj</Transaction>
+    <Transaction>2015/05/07 12:29:27.000.652,=C:\Users\user\Documents\App\bissa\Unit5.cpp</Transaction>
+    <Transaction>2015/05/08 12:31:53.000.104,=C:\Users\user\Documents\App\bissa\Unit6.cpp</Transaction>
+    <Transaction>2015/05/09 22:28:09.000.546,=C:\Users\user\Documents\belajar\bissa\Unit7.cpp</Transaction>
+    <Transaction>2015/05/10 18:56:16.000.662,C:\Users\user\Documents\belajar\bissa\Unit7.cpp=</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Project1.cpp"/>
+    <File Path="Project1PCH1.h"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.cpp"/>
+    <File Path="Unit1.dfm"/>
+    <File Path="Unit1.h"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.cpp"/>
+    <File Path="Unit2.dfm"/>
+    <File Path="Unit2.h"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.cpp"/>
+    <File Path="Unit3.dfm"/>
+    <File Path="Unit3.h"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.cpp"/>
+    <File Path="Unit4.dfm"/>
+    <File Path="Unit4.h"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.cpp"/>
+    <File Path="Unit5.dfm"/>
+    <File Path="Unit5.h"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.cpp"/>
+    <File Path="Unit6.dfm"/>
+    <File Path="Unit6.h"/>
+  </ProjectSortOrder>
+</BorlandProject>
