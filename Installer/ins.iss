@@ -23,7 +23,7 @@ UninstallFilesDir={app}\uninst
 UninstallDisplayIcon={app}\SirahNabi.exe,0
 UninstallDisplayName=Sirah Nabi
 WindowVisible = no
-AppCopyright=Copyright © 2015 Professional Software
+AppCopyright=Copyright Â© 2015 Professional Software
 FlatComponentsList = yes
 PrivilegesRequired = admin
 VersionInfoVersion=1.0
@@ -67,7 +67,7 @@ Name: "{userappdata}\Microsoft\Internet Explorer\Quick Launch\SirahNabi"; Filena
 
 ;install driver myodbc
 Filename: "{sys}\myodbc-installer.exe"; Parameters: "-d -a -n ""MySQL ODBC 5.3 ANSI Driver"" -t ""DRIVER=myodbc5a.dll;SETUP=myodbc5S.dll"""; StatusMsg: "Tunggu sedang mendaftarkan driver MySQL Connector ODBC 5.3"; Flags: runhidden
-Filename: "{sys}\myodbc-installer.exe"; Parameters: "-s -a -c2 -n ""ariefset_sn_rpl"" -t ""DRIVER=MySQL ODBC 5.3 ANSI Driver; SERVER=ariefsetya.com;DATABASE=ariefset_sn_rpl;UID=ariefset_sn_rpl;PWD=siroh;""";StatusMsg: "Sedang membuat data source"; Flags: runhidden
+Filename: "{sys}\myodbc-installer.exe"; Parameters: "-s -a -c2 -n "" "" -t ""DRIVER=MySQL ODBC 5.3 ANSI Driver; SERVER=nama_host;DATABASE=nama_database;UID=user_host;PWD=password_host;""";StatusMsg: "Sedang membuat data source"; Flags: runhidden
 
 
 [UninstallDelete] 
