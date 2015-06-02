@@ -1,8 +1,8 @@
 <?php 
-$user = "ariefset_sn_rpl";
-$pass = "siroh";
-$host = "174.120.70.217";
-$db = "ariefset_sn_rpl";
+$user = "nama_user";
+$pass = "password_user";
+$host = "nama_host";
+$db = "nama_database";
 
 try {
 	$sh = new PDO("mysql:dbname=$db;host=$host", $user, $pass);
@@ -10,8 +10,8 @@ try {
 	echo "Koneksi gagal ke database : ".$s->getMessage();
 }
 
-mysql_connect("174.120.70.217","ariefset_sn_rpl","siroh");
-mysql_select_db("ariefset_sn_rpl");
+mysql_connect("nama_host","nama_user","password_user");
+mysql_select_db("nama_database");
 
 
 ?> 
